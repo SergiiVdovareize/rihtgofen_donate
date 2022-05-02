@@ -141,6 +141,14 @@ body {
 	background-image: url(img/revolut_logo.svg);
 }
 
+.paypal-logo {
+	background-image: url(img/paypal_logo.svg);
+}
+
+.tikkie-logo {
+	background-image: url(img/tikkie_logo.svg);
+}
+
 .card-number-block:hover {
 	cursor: pointer;
 }
